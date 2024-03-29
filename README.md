@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a personal project just for fun, I want to use the Pokemon API to create cards in screen, this is not fully completed.
+
 ## Available Scripts
 
 In the project directory, you can run:
